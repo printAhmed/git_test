@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1649848483 source:e:\amit\c\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ALU.h"
+	"std.h"
+
+1648638915 source:e:\amit\c\test\alu.c
+
+1648652188 e:\amit\c\test\alu.h
+
+1649682560 e:\amit\c\test\std.h
+
